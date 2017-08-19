@@ -1,2 +1,3 @@
 # hello-world
-my first repo on github
+Мy first repo on github. 
+Bla-bla-bla - changes
